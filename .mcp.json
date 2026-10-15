@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "poddub": {
+      "type": "http",
+      "url": "https://poddub.com/api/mcp",
+      "timeout": 300000
+    }
+  }
+}

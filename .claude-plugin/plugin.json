@@ -1,0 +1,17 @@
+{
+  "name": "poddub",
+  "description": "Lets Claude Code work with poddub: your teams, sources, episodes and scripts, signed in as you.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Seats at, LLC",
+    "url": "https://poddub.com"
+  },
+  "homepage": "https://poddub.com/docs/agents/claude-code",
+  "repository": "https://github.com/seatsat/poddub-claude-plugin",
+  "license": "MIT",
+  "keywords": ["poddub", "podcast", "mcp"],
+  "documentationUrl": "https://poddub.com/docs/agents/claude-code",
+  "supportUrl": "https://poddub.com/support",
+  "privacyPolicyUrl": "https://poddub.com/privacy",
+  "termsOfServiceUrl": "https://poddub.com/terms"
+}

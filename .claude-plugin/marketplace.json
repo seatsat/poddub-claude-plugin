@@ -1,0 +1,15 @@
+{
+  "name": "poddub",
+  "description": "poddub's plugin for Claude Code.",
+  "owner": {
+    "name": "Seats at, LLC",
+    "url": "https://poddub.com"
+  },
+  "plugins": [
+    {
+      "name": "poddub",
+      "source": "./",
+      "description": "Lets Claude Code work with poddub: your teams, sources, episodes and scripts, signed in as you."
+    }
+  ]
+}
